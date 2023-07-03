@@ -1,0 +1,11 @@
+        Middleware Types
+        
+> Third party middleware - > body-parser, cookie-parser etc.
+
+> Application-level moddleware - app.use(), app.METHOD()
+
+> router level middleware - router.use(), router.METHOD()
+
+> Error handling middleware
+
+> Built in middleware - express.static, express.json, express.urlencoded
